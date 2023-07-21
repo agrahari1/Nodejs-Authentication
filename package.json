@@ -23,15 +23,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Rohanchaudhary94/nodejs-auth.git"
-  },
+  
   "keywords": [],
   "author": "prashant",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Rohanchaudhary94/nodejs-auth/issues"
-  },
-  "homepage": "https://github.com/Rohanchaudhary94/nodejs-auth#readme"
+  "license": "ISC"
 }
